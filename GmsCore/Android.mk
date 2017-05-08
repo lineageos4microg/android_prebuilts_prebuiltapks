@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE := GmsCore
-LOCAL_SRC_FILES := com.google.android.gms-10545440.apk
+LOCAL_SRC_FILES := com.google.android.gms-10545451.apk
 LOCAL_REQUIRED_MODULES := libvtm-jni
 LOCAL_STATIC_JAVA_LIBRARIES := mapsv1
 LOCAL_MODULE_CLASS := APPS
