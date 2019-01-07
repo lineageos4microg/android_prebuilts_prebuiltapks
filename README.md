@@ -20,7 +20,5 @@ The included APKs are:
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
  * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
-   * YahooWeatherProvider: "Yahoo" weather provider for the LineageOS' weather service
-   * WundergroundWeatherProvider: "Weather Underground" weather provider for the LineageOS' weather service
    * OpenWeatherMapWeatherProvider: "Open Weather Map" weather provider for the LineageOS' weather service
 
