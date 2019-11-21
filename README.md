@@ -19,5 +19,5 @@ The included APKs are:
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
  * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
    * OpenWeatherMapWeatherProvider: "Open Weather Map" weather provider for the LineageOS' weather service
- * OpenGapps packages:
+ * OpenGapps packages (binaries extracted from [here](https://opengapps.org/)):
    * Phonesky: the official Google Play Store, patched with NanoLX patches from [here](https://gitlab.com/Nanolx/microg-phonesky-iap-support), and resigned with my private key.
