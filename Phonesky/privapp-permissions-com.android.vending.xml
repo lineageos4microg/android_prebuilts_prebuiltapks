@@ -21,9 +21,9 @@
         <permission  name="android.permission.GET_APP_OPS_STATS"/>
         <permission  name="android.permission.UPDATE_DEVICE_STATS"/>
         <permission  name="android.permission.PACKAGE_VERIFICATION_AGENT"/>
-        <deny-permission  name="android.permission.MANAGE_USERS"/>
-        <deny-permission  name="android.permission.INTERACT_ACROSS_USERS"/>
-        <deny-permission  name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission  name="android.permission.MANAGE_USERS"/>
+        <permission  name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission  name="android.permission.WRITE_SECURE_SETTINGS"/>
         <permission  name="android.permission.FORCE_STOP_PACKAGES"/>
         <permission  name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME"/>
         <deny-permission  name="android.permission.READ_RUNTIME_PROFILES"/>
@@ -49,7 +49,7 @@
         <deny-permission  name="android.permission.USE_FINGERPRINT"/>
         <deny-permission  name="android.permission.USE_BIOMETRIC"/>
         <permission  name="android.permission.GET_ACCOUNTS"/> maxSdkVersion="/>22"/>
-        <deny-permission  name="android.permission.MANAGE_ACCOUNTS"/>
+        <permission  name="android.permission.MANAGE_ACCOUNTS"/>
         <permission  name="android.permission.AUTHENTICATE_ACCOUNTS"/>
         <permission  name="android.permission.USE_CREDENTIALS"/>
         <permission  name="android.permission.INSTALL_GRANT_RUNTIME_PERMISSIONS"/>
@@ -60,7 +60,7 @@
         <permission  name="android.permission.MANAGE_APP_OPS_MODES"/>
         <permission  name="android.permission.MANAGE_ROLLBACKS"/>
         <permission  name="android.permission.SET_HARMFUL_APP_WARNINGS"/>
-        <deny-permission  name="android.permission.WRITE_SETTINGS"/>
+        <permission  name="android.permission.WRITE_SETTINGS"/>
         <permission  name="android.permission.GET_PACKAGE_SIZE"/>
         <permission  name="android.permission.READ_APP_BADGE"/>
         <permission  name="android.permission.FOREGROUND_SERVICE"/>
@@ -74,9 +74,9 @@
         <permission  name="com.google.android.finsky.permission.DSE"/>
         <permission  name="com.android.vending.permission.C2D_MESSAGE"/>
         <permission  name="com.android.vending.billing.IN_APP_NOTIFY.permission.C2D_MESSAGE"/>
-        <deny-permission  name="com.google.android.c2dm.permission.RECEIVE"/>
-        <deny-permission  name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
-        <deny-permission  name="com.google.android.providers.gsf.permission.WRITE_GSERVICES"/>
+        <permission  name="com.google.android.c2dm.permission.RECEIVE"/>
+        <permission  name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+        <permission  name="com.google.android.providers.gsf.permission.WRITE_GSERVICES"/>
         <permission  name="com.android.vending.INTENT_VENDING_ONLY"/>
         <permission  name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
         <permission  name="com.android.vending.TOS_ACKED"/>
