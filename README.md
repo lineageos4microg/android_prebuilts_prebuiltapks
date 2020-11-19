@@ -20,6 +20,3 @@ The included APKs are:
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
- * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
-   * OpenWeatherMapWeatherProvider: "Open Weather Map" weather provider for the LineageOS' weather service
-
