@@ -1,3 +1,9 @@
+# Deprecated
+
+The recommended way to add microG to LineageOS builds now is the [android_vendor_partner_gms](https://github.com/lineageos4microg/android_vendor_partner_gms) repo.
+
+This repository will no longer be updated.
+
 # Prebuilt APKs
 
 This is a collection of FOSS APKs, coupled with the respective Android.mk for an
